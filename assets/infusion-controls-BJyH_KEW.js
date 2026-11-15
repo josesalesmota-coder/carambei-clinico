@@ -1,0 +1,1 @@
+function e(e,t){return e!==null&&Number.isFinite(e)&&e>t?Math.ceil(e/10)*10:t}function t(e,t,n){return e===null||!Number.isFinite(e)||e<0||!Number.isFinite(t)||t<=0?null:Number(Math.max(0,e+t*n).toFixed(8))}export{t as n,e as t};

@@ -1,0 +1,1 @@
+import{Jr as e,Xr as t,a as n}from"./index-DlrUac0e.r2611d.js";var r=t(e(),1);function i(e,t){let[i,a]=(0,r.useState)(e);function o(e){a(e),n(t(e))}return[i,o]}export{i as t};

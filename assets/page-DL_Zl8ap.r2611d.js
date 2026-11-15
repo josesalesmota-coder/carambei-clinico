@@ -1,0 +1,1 @@
+import{mr as e}from"./index-DlrUac0e.r2611d.js";import{t}from"./prescription-editor-CNPvbjyc.r2611d.js";var n=e();function r(){return(0,n.jsx)(t,{mode:`observation`})}export{r as default};
